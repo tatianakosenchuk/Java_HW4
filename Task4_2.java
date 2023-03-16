@@ -8,8 +8,6 @@ import java.util.LinkedList;
 import java.util.Random;
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner14;
-
 public class Task4_2 {
     public static LinkedList enqueue(LinkedList<Integer> LinkList, int new_element) {
         LinkList.add(new_element);
